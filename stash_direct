@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,braze.com
   - DOMAIN-SUFFIX,appsflyer.com
   - DOMAIN-SUFFIX,submit.backtrace.io
+  - DOMAIN-SUFFIX,gs.skugry.dev
