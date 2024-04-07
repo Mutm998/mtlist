@@ -1,6 +1,5 @@
-payload:
-  - "+.shouqianba.com"
-  - "+.skugry.dev"
-  - "+.braze.com"
-  - "+.appsflyer.com"
-  - "+.submit.backtrace.io"
+*.shouqianba.com
+*.skugry.dev
+*.braze.com
+*.appsflyer.com
+*.submit.backtrace.io
