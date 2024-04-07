@@ -1,8 +1,8 @@
 payload:
-  - DOMAIN-SUFFIX,tsyndicate.com
-  - DOMAIN-SUFFIX,afcdn.net
-  - DOMAIN-SUFFIX,sitemaji.com
-  - DOMAIN-SUFFIX,googlesyndication.com
-  - DOMAIN-SUFFIX,tamedia.com.tw
-  - DOMAIN-SUFFIX,6xeuemq.com
-  - DOMAIN-SUFFIX,6ruqexa.com
+  - "+.tsyndicate.com"
+  - "+.afcdn.net"
+  - "+.sitemaji.com"
+  - "+.googlesyndication.com"
+  - "+.tamedia.com.tw"
+  - "+.6xeuemq.com"
+  - "+.6ruqexa.com"
