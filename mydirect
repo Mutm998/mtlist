@@ -1,6 +1,5 @@
-*.shouqianba.com
-*.skugry.dev
-*.braze.com
-*.appsflyer.com
-*.submit.backtrace.io
-.asia-east1.gs.skugry.dev
+DOMAIN-SUFFIX,shouqianba.com
+DOMAIN-SUFFIX,skugry.dev
+DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,submit.backtrace.io
