@@ -4,6 +4,5 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,braze.com
-DOMAIN-SUFFIX,images.blz-contentstack.com
-DOMAIN-SUFFIX,blzprofile.akamaized.net
-DOMAIN-SUFFIX,blz-contentstack-images.akamaized.net
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,blz-contentstack.com
