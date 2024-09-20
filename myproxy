@@ -2,7 +2,8 @@ DOMAIN-SUFFIX,kache.ink
 DOMAIN-SUFFIX,manhuagui.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,threads.net
-#DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,account.battle.net
+# ----------------------------------
 #DOMAIN-SUFFIX,braze.com
 #DOMAIN-SUFFIX,blizzard.com
 #DOMAIN-SUFFIX,akamaized.net
