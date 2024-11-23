@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,manhuagui.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,three.com.hk
+DOMAIN-SUFFIX,account.battle.net
 # ----------------------------------
 #DOMAIN-SUFFIX,braze.com
 #DOMAIN-SUFFIX,blizzard.com
@@ -10,4 +11,3 @@ DOMAIN-SUFFIX,three.com.hk
 #DOMAIN-SUFFIX,blz-contentstack.com
 #DOMAIN-SUFFIX,appsflyersdk.com
 #DOMAIN-SUFFIX,backtrace.io
-#DOMAIN-SUFFIX,battle.net
