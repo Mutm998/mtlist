@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,account.battle.net
 # ----------------------------------
 DOMAIN-SUFFIX,hetushu.com
 # ----------------------------------
+DOMAIN-SUFFIX,office365.com
+# ----------------------------------
 #DOMAIN-SUFFIX,braze.com
 #DOMAIN-SUFFIX,blizzard.com
 #DOMAIN-SUFFIX,akamaized.net
