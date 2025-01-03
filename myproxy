@@ -3,7 +3,7 @@ DOMAIN-SUFFIX,manhuagui.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,three.com.hk
-DOMAIN-SUFFIX,account.battle.net
+#DOMAIN-SUFFIX,account.battle.net
 # ----------------------------------
 DOMAIN-SUFFIX,hetushu.com
 # ----------------------------------
