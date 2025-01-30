@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,8comic.com
 DOMAIN-SUFFIX,comicbus.com
 # ------------ office ------------
 DOMAIN-SUFFIX,office365.com
-# # ------------ blizzard ------------
+# ------------ blizzard ------------
 DOMAIN-SUFFIX,battle.net
 #DOMAIN-SUFFIX,braze.com
 #DOMAIN-SUFFIX,blizzard.com
@@ -17,6 +17,6 @@ DOMAIN-SUFFIX,battle.net
 #DOMAIN-SUFFIX,blz-contentstack.com
 #DOMAIN-SUFFIX,appsflyersdk.com
 #DOMAIN-SUFFIX,backtrace.io
-# ----------------------------------
+# ------------ AI ------------
 DOMAIN-SUFFIX,deepseek.com
 
