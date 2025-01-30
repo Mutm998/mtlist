@@ -19,4 +19,6 @@ DOMAIN-SUFFIX,battle.net
 #DOMAIN-SUFFIX,backtrace.io
 # ------------ AI ------------
 DOMAIN-SUFFIX,deepseek.com
+# ------------ tmp ------------
+DOMAIN-SUFFIX,1yunti.com
 
