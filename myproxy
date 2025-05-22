@@ -14,13 +14,16 @@ DOMAIN-SUFFIX,onemoreplace.tw
 # ------------ office ------------
 DOMAIN-SUFFIX,office365.com
 # ------------ blizzard ------------
-#DOMAIN-SUFFIX,battle.net
-#DOMAIN-SUFFIX,braze.com
-#DOMAIN-SUFFIX,blizzard.com
-#DOMAIN-SUFFIX,akamaized.net
-#DOMAIN-SUFFIX,blz-contentstack.com
-#DOMAIN-SUFFIX,appsflyersdk.com
-#DOMAIN-SUFFIX,backtrace.io
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,blz-contentstack.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,backtrace.io
+DOMAIN-SUFFIX,bc.googleusercontent.com
+DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,qos.skugry.dev
 # ------------ AI ------------
 DOMAIN-SUFFIX,deepseek.com
 # ------------ tmp ------------
