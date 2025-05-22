@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,onemoreplace.tw
 # ------------ office ------------
 DOMAIN-SUFFIX,office365.com
 # ------------ blizzard ------------
-#DOMAIN-SUFFIX,battle.net
+#DOMAIN-SUFFIX,oauth.battle.net
 #DOMAIN-SUFFIX,braze.com
 #DOMAIN-SUFFIX,blizzard.com
 #DOMAIN-SUFFIX,akamaized.net
