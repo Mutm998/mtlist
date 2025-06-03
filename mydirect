@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,backtrace.io
-DOMAIN-SUFFIX,braze.com
+#DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,blz-contentstack.com
 DOMAIN-SUFFIX,bc.googleusercontent.com
