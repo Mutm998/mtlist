@@ -7,6 +7,6 @@ DOMAIN-SUFFIX,blz-contentstack.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,backtrace.io
 #DOMAIN-SUFFIX,bc.googleusercontent.com
-AND,((DOMAIN-SUFFIX,bc.googleusercontent.com),(DEST-PORT,7000-7999))
+AND,((DOMAIN-SUFFIX,bc.googleusercontent.com),(DEST-PORT,7500-7999))
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,qos.skugry.dev
