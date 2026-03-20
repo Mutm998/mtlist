@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,cronexamples.com
 # ------------ office ------------
 DOMAIN-SUFFIX,office365.com
 # ------------ AI ------------
-DOMAIN-SUFFIX,deepseek.com
+#DOMAIN-SUFFIX,deepseek.com
 # ------------ tmp ------------
 DOMAIN-SUFFIX,kelee.one
 DOMAIN-SUFFIX,stash.wiki
