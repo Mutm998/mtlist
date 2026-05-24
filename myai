@@ -1,1 +1,2 @@
-	AND,((DOMAIN-SUFFIX,pa.googleapis.com),(DEST-PORT,443))
+AND,((DOMAIN-SUFFIX,pa.googleapis.com),(DEST-PORT,443))
+AND,((DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com),(DEST-PORT,443))
