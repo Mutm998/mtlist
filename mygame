@@ -1,10 +1,10 @@
 # ------------ blizzard ------------
+DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,bc.googleusercontent.com
-AND,((DOMAIN-SUFFIX,bc.googleusercontent.com),(DEST-PORT,7500-7999))
+#AND,((DOMAIN-SUFFIX,bc.googleusercontent.com),(DEST-PORT,7500-7999))
 #DOMAIN-SUFFIX,qos.skugry.dev
 #DOMAIN-SUFFIX,app-analytics-services.com
 #DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,braze.com
 #DOMAIN-SUFFIX,blizzard.com
 #DOMAIN-SUFFIX,akamaized.net
 #DOMAIN-SUFFIX,blz-contentstack.com
